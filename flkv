@@ -1,0 +1,7 @@
+echo "# Brain-Tumour-Detection-Using-Deep-Learning" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/theheemalichaudhari/Brain-Tumour-Detection-Using-Deep-Learning.git
+git push -u origin main
